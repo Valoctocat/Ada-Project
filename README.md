@@ -1,2 +1,44 @@
-# Ada-Project
-Project for Applied Data Analysis class. 
+# Think Global Buy Local!  
+
+# Abstract
+A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+
+- **What**: A lot of food is being imported throughout the year to have constant stock independatly of food season products. *TODO : Find Data*
+- **Why**: Detrimental to local farmers, disparition of local markets etc. *TODO : News articles ?*
+- **How**: [Open Food Facts](https://world.openfoodfacts.org/) dataset gives some good insights towards foods origins... *TODO : Describe dataset*
+
+# Research questions
+- What are the major food exporting countries?
+- What are the main categories of product subject to food import ? Is this justified?
+( Maybe :- What is the share of those product that are bio? What are their carbon print ? Is their any correlation between packaging and distance travelled ?  )
+- Is it possible to infer on the food origins based on the product features (ingredients, brand if available, Country, etc.) ? Can we cluster some products based on their ingredient origins ?
+
+# Dataset
+List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.  
+
+[Open Food Facts](https://world.openfoodfacts.org/) will be the main dataset used for our analysis. It is available on the EPFL IC cluster or publicly [here](https://world.openfoodfacts.org/data). Origins of ingredients are labelled under the *origins* feature, which will be our starting point for this subject.
+
+OFF gathers data of more than 600k products, but only 40k has labelled ingredient origins, which accounts for roughly 6% of the dataset. However, this should still be enough for a first analysis of the product population. Ways to enrich the dataset could be interesting, but have not been found yet as this unique project started recently and is still growing. Any statistical conclusion from the analysis will therefore need to be carefully studied due to the small size of the population sample.
+
+Data cleaning will be a big part of this analysis as the project is open-sourced : anyone can contribute and add their favorite (or not!) products. This leads to inconsistancies and unormalized data. As a brief example some origins are labelled with a '?', probably meaning that the origin is not certain, which we will not consider.
+
+Dataset is at the time of the project only 1.6 GB, available in CSV format. It will be processed using the Apache Spark API to handle the distributed informations in the cluster. Analysis tasks will be performed locally for conveniency. However, any Machine Learning task should be performed on the cluster for its computationnal power.
+
+# A list of internal milestones up until project milestone 2
+*TODO : Improve this*
+Until 11th November :
+- Clean datas!
+- Get the list of main exporting countries
+- Get the list of main food categories imported
+- Plan the Machine Learning experiment *Do they really add something to the project ?*
+
+Until 18th Novembre : 
+- Follow analysis based on previous results : Focus analysis on the main imported categories: get statistics about carbon prints, distance covered ?
+- Study correlation between packaging and distance ? *Necessary?*
+- Decide how to perform Machine Learning experiment, what algorithms etc.
+
+Until 25th November :
+- Start and perform Machine Learning experiments
+
+# Questions for TAs
+- We are tackling a lot of different questions regarding food import. But not all of them are socially related (although the main subject is). Is this an issue ?  

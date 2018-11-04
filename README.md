@@ -9,8 +9,8 @@ Our analysis aims at making people aware of ecological concern of food importati
 # Research questions
 - From which countries does food mainly come from ? 
 - What are the main categories of food products being imported? Is this justified?
-( Maybe :- What is the share of those product that are bio? What are their carbon print ? Is there any correlation between packaging and distance travelled ?)
 - Is it possible to infer on the food origins based on the product features (ingredients, brand if available, Country, etc.) using machine learning implementations(Neural Network, Random Forest)? Can we cluster some products based on the origin of their ingredients ?
+- For further investigations: What is the share of those product that are bio? What are their carbon print ? Is there any correlation between packaging and distance travelled ?
 
 # Dataset
 
@@ -30,7 +30,7 @@ Up until 11th November :
 - Get the list of main food origins
 - Get the list of main food categories imported
 - Find ways to visualize obtained data on maps
-- Plan the Machine Learning experiment (*Do they really add something to the project ?*)
+- Plan the Machine Learning experiments. (*Do they really add something to the project ?*)
 
 Up until 18th November :
 - Follow analysis based on previous results : Focus analysis on the main imported categories: get statistics about carbon prints, distance covered. Confront the data with what is necessary for the country.

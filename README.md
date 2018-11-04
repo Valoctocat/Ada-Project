@@ -1,7 +1,6 @@
 # Think Global Buy Local!  
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
 - **What**: A lot of food is being imported throughout the year to have constant stock independently of food season products. In Switzerland, 48% of consumed food is imported. The possibility to promote local agriculture was an issue at stake during the  [last votations in Switzerland](https://www.bfs.admin.ch/bfs/fr/home/statistiques/politique/votations/annee-2018/2018-09-23/souverainete-alimentaire.html#-1194286177).
 - **Why**: Local food keeps local land in production and local money in the community. It often costs less than classic produced food and builds community relations. Decentralized production also reduces food safety risks, as long-distance food can potentially be contaminated at many points on its journey to our plates. Reducing the distance in food transportation would also reduce greenhouse gas emission.
@@ -15,7 +14,6 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 - Is it possible to infer on the food origins based on the product features (ingredients, brand if available, Country, etc.) using machine learning implementations(Neural Network, Random Forest)? Can we cluster some products based on the origin of their ingredients ?
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.  
 
 [Open Food Facts](https://world.openfoodfacts.org/) will be the main dataset used for our analysis. It is a collaborative, free and open database of food products from around the world, completed by volunteers. It is available on the EPFL IC cluster or publicly [here](https://world.openfoodfacts.org/data). Origins of ingredients are labelled under the *origins* feature, which will be our starting point for this subject.
 

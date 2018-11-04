@@ -3,7 +3,7 @@
 # Abstract
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
-- **What**: A lot of food is being imported throughout the year to have constant stock independently of food season products. In Switzerland, 48% of consumed food is imported. The possibility to promote local agriculture was an issue at stake during the  [last votations in Switzerland.](https://www.bfs.admin.ch/bfs/fr/home/statistiques/politique/votations/annee-2018/2018-09-23/souverainete-alimentaire.html#-1194286177).
+- **What**: A lot of food is being imported throughout the year to have constant stock independently of food season products. In Switzerland, 48% of consumed food is imported. The possibility to promote local agriculture was an issue at stake during the  [last votations in Switzerland](https://www.bfs.admin.ch/bfs/fr/home/statistiques/politique/votations/annee-2018/2018-09-23/souverainete-alimentaire.html#-1194286177).
 - **Why**: Local food keeps local land in production and local money in the community. It often costs less than classic produced food and builds community relations. Decentralized production also reduces food safety risks, as long-distance food can potentially be contaminated at many points on its journey to our plates. Reducing the distance in food transportation would also reduce greenhouse gas emission.
 - **How**: [Open Food Facts](https://world.openfoodfacts.org/) dataset gives some good insights towards foods origins...It gathers information about food products around the world as the ingredients, origin of ingredients, nutrition factors, manufacturing places, countries where they are sold.
 

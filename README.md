@@ -12,7 +12,7 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 - From which countries does food mainly come from ? 
 - What are the main categories of food product being imported ? Is this justified?
 ( Maybe :- What is the share of those product that are bio? What are their carbon print ? Is there any correlation between packaging and distance travelled ?  )
-- Is it possible to infer on the food origins based on the product features (ingredients, brand if available, Country, etc.) ? Can we cluster some products based on the origin of their ingredients ?
+- Is it possible to infer on the food origins based on the product features (ingredients, brand if available, Country, etc.) using machine learning implementations(Neural Network, Random Forest)? Can we cluster some products based on the origin of their ingredients ?
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.  
@@ -21,22 +21,23 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 OFF gathers data of more than 600k products, but only 40k have labelled ingredient origins, which accounts for roughly 6% of the dataset. However, this should still be enough for a first analysis of the product importations. Other ways to enrich the dataset could be interesting, but have not been found yet as this unique project started recently (in 2012) and is still growing. Therefore, any statistical conclusion from the analysis will need to be studied carefully due to the small size of the population sample.
 
-As the OFF project started in France, the dataset gathers mostly food products sold in French stores. Our work 
+As the OFF project started in France, the dataset gathers mostly food products sold in French stores. Therefore, imformation about the situation in other countries may be less representative. 
+
 Data cleaning will be a big part of this analysis as the project is open-sourced : anyone can contribute and add their favorite (or not!) products. This leads to inconsistencies and unnormalized data. As a brief example some origins are labelled with a '?', probably meaning that the origin is unknown.
 
 Dataset is at the time of the project only 1.6 GB, available in CSV format. It will be processed using the Apache Spark API to handle the distributed informations in the cluster. Analysis tasks will be performed locally for conveniency. However, any Machine Learning task should be performed on the cluster for its computational power.
 
 # A list of internal milestones up until project milestone 2
-*TODO : Improve this*
 Until 11th November :
-- Clean datas!
-- Get the list of main exporting countries
+- Clean data!
+- Get the list of main food origin
 - Get the list of main food categories imported
+- Find ways to visualize obtained data on maps
 - Plan the Machine Learning experiment *Do they really add something to the project ?*
 
 Until 18th November :
 - Follow analysis based on previous results : Focus analysis on the main imported categories: get statistics about carbon prints, distance covered ?
-- Study correlation between packaging and distance ? *Necessary?*
+- See if it's interesting to study  correlation between packaging and distance 
 - Decide how to perform Machine Learning experiment, what algorithms etc.
 
 Until 25th November :

@@ -50,9 +50,11 @@ Up until 25th November :
 
 Up until December 2nd :
 - Study correlation between packaging and distance
-- If note finished for milestone 2, perform bootstrapping on distance distribution for each food category to assess in intervall of confidence
-- Gather the interesting statistics to build the data story
-- Inform on Jekyll and D3
+- Perform bootstrapping to get an interval of confidence for the share of the top exported categories for each country.
+- Gather the interesting statistics to build the data story : 
+   * Distance travelled for each Food category (median distance bootstrapped and Max Value)
+   * Share of the top categories for each country (mean share bootsrapped)
+- Document on Jekyll and D3
 
 Up until December 9th :  
 - Build the two interactive maps with D3 (more informations in the notebook)

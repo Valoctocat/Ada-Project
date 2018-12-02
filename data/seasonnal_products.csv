@@ -1,0 +1,435 @@
+,month,Products
+0,janvier,Ail
+1,janvier,Betterave
+2,janvier,Carotte
+3,janvier,Chou
+4,janvier,Chou de Bruxelles
+5,janvier,Courge
+6,janvier,Crosne
+7,janvier,Céleri
+8,janvier,Endive
+9,janvier,Frisée
+10,janvier,Mâche
+11,janvier,Navet
+12,janvier,Oignon
+13,janvier,Panais
+14,janvier,Poireau
+15,janvier,Pomme de terre
+16,janvier,Salsifi
+17,janvier,Topinambour
+18,janvier,Épinard
+19,janvier,Citron
+20,janvier,Clémentine
+21,janvier,Kiwi
+22,janvier,Mandarine
+23,janvier,Orange
+24,janvier,Pamplemousse
+25,janvier,Poire
+26,janvier,Pomme
+27,fevrier,Ail
+28,fevrier,Betterave
+29,fevrier,Carotte
+30,fevrier,Chou de Bruxelles
+31,fevrier,Crosne
+32,fevrier,Céleri
+33,fevrier,Endive
+34,fevrier,Frisée
+35,fevrier,Mâche
+36,fevrier,Navet
+37,fevrier,Oignon
+38,fevrier,Panais
+39,fevrier,Poireau
+40,fevrier,Pomme de terre
+41,fevrier,Radis
+42,fevrier,Salsifi
+43,fevrier,Topinambour
+44,fevrier,Épinard
+45,fevrier,Citron
+46,fevrier,Clémentine
+47,fevrier,Kiwi
+48,fevrier,Mandarine
+49,fevrier,Orange
+50,fevrier,Pamplemousse
+51,fevrier,Poire
+52,fevrier,Pomme
+53,mars,Ail
+54,mars,Asperge
+55,mars,Betterave
+56,mars,Blette
+57,mars,Carotte
+58,mars,Chou
+59,mars,Chou de Bruxelles
+60,mars,Chou-fleur
+61,mars,Crosne
+62,mars,Céleri
+63,mars,Endive
+64,mars,Frisée
+65,mars,Navet
+66,mars,Oignon
+67,mars,Panais
+68,mars,Poireau
+69,mars,Pomme de terre
+70,mars,Radis
+71,mars,Salsifi
+72,mars,Topinambour
+73,mars,Épinard
+74,mars,Citron
+75,mars,Kiwi
+76,mars,Orange
+77,mars,Pamplemousse
+78,mars,Poire
+79,mars,Pomme
+80,avril,Ail
+81,avril,Artichaut
+82,avril,Asperge
+83,avril,Betterave
+84,avril,Blette
+85,avril,Carotte
+86,avril,Chou-fleur
+87,avril,Concombre
+88,avril,Céleri
+89,avril,Endive
+90,avril,Frisée
+91,avril,Laitue
+92,avril,Navet
+93,avril,Oignon
+94,avril,Petit pois
+95,avril,Poireau
+96,avril,Pomme de terre
+97,avril,Radis
+98,avril,Épinard
+99,avril,Citron
+100,avril,Pamplemousse
+101,avril,Pomme
+102,mai,Ail
+103,mai,Artichaut
+104,mai,Asperge
+105,mai,Aubergine
+106,mai,Betterave
+107,mai,Blette
+108,mai,Carotte
+109,mai,Chou-fleur
+110,mai,Concombre
+111,mai,Courgette
+112,mai,Céleri
+113,mai,Laitue
+114,mai,Navet
+115,mai,Oignon
+116,mai,Petit pois
+117,mai,Pomme de terre primeur
+118,mai,Radis
+119,mai,Tomate
+120,mai,Épinard
+121,mai,Cerise
+122,mai,Fraise
+123,mai,Pamplemousse
+124,mai,Rhubarbe
+125,juin,Ail
+126,juin,Artichaut
+127,juin,Asperge
+128,juin,Aubergine
+129,juin,Betterave
+130,juin,Blette
+131,juin,Brocoli
+132,juin,Carotte
+133,juin,Concombre
+134,juin,Courgette
+135,juin,Céleri
+136,juin,Fenouil
+137,juin,Haricot vert
+138,juin,Laitue
+139,juin,Navet
+140,juin,Oignon
+141,juin,Petit pois
+142,juin,Poivron
+143,juin,Pomme de terre primeur
+144,juin,Radis
+145,juin,Tomate
+146,juin,Épinard
+147,juin,Abricot
+148,juin,Cassis
+149,juin,Cerise
+150,juin,Citron
+151,juin,Fraise
+152,juin,Framboise
+153,juin,Groseille
+154,juin,Melon
+155,juin,Pamplemousse
+156,juin,Pastèque
+157,juin,Pomme
+158,juin,Prune
+159,juin,Pêche
+160,juin,Rhubarbe
+161,juin,Avoine d'hiver
+162,juin,Avoine de printemps
+163,juin,Colza d'hiver et de printemps
+164,juin,Orge d'hiver
+165,juin,Pois
+166,juin,Seigle
+167,juillet,Ail
+168,juillet,Artichaut
+169,juillet,Asperge
+170,juillet,Aubergine
+171,juillet,Betterave
+172,juillet,Blette
+173,juillet,Brocoli
+174,juillet,Carotte
+175,juillet,Concombre
+176,juillet,Courgette
+177,juillet,Céleri
+178,juillet,Fenouil
+179,juillet,Haricot vert
+180,juillet,Laitue
+181,juillet,Maïs
+182,juillet,Oignon
+183,juillet,Petit pois
+184,juillet,Poivron
+185,juillet,Pomme de terre primeur
+186,juillet,Radis
+187,juillet,Tomate
+188,juillet,Épinard
+189,juillet,Abricot
+190,juillet,Cassis
+191,juillet,Cerise
+192,juillet,Figue
+193,juillet,Fraise
+194,juillet,Framboise
+195,juillet,Féveroles et fèves
+196,juillet,Groseille
+197,juillet,Melon
+198,juillet,Myrtille
+199,juillet,Nectarine
+200,juillet,Orge d'hiver
+201,juillet,Pastèque
+202,juillet,Poire
+203,juillet,Prune
+204,juillet,Pêche
+205,juillet,Rhubarbe
+206,juillet,Avoine d'hiver
+207,juillet,Avoine de printemps
+208,juillet,Blé dur d'hiver et de printemps
+209,juillet,Blé tendre d'hiver et de printemps
+210,juillet,Colza d'hiver et de printemps
+211,juillet,Orge d'hiver
+212,juillet,Orge de printemps
+213,juillet,Pois
+214,juillet,Seigle
+215,juillet,Triticale
+216,aout,Ail
+217,aout,Artichaut
+218,aout,Aubergine
+219,aout,Betterave
+220,aout,Blette
+221,aout,Brocoli
+222,aout,Carotte
+223,aout,Concombre
+224,aout,Courge
+225,aout,Courgette
+226,aout,Céleri
+227,aout,Fenouil
+228,aout,Frisée
+229,aout,Haricot vert
+230,aout,Laitue
+231,aout,Maïs
+232,aout,Oignon
+233,aout,Poivron
+234,aout,Pomme de terre primeur
+235,aout,Radis
+236,aout,Tomate
+237,aout,Épinard
+238,aout,Abricot
+239,aout,Cassis
+240,aout,Figue
+241,aout,Fraise
+242,aout,Framboise
+243,aout,Féveroles et fèves
+244,aout,Groseille
+245,aout,Melon
+246,aout,Mirabelle
+247,aout,Myrtille
+248,aout,Mûre
+249,aout,Nectarine
+250,aout,Noisette
+251,aout,Pastèque
+252,aout,Poire
+253,aout,Pomme
+254,aout,Prune
+255,aout,Pruneau
+256,aout,Pêche
+257,aout,Raisin
+258,aout,Avoine d'hiver
+259,aout,Avoine de printemps
+260,aout,Blé dur d'hiver et de printemps
+261,aout,Blé tendre d'hiver et de printemps
+262,aout,Orge d'hiver
+263,aout,Orge de printemps
+264,aout,Pois
+265,aout,Seigle
+266,aout,Triticale
+267,septembre,Ail
+268,septembre,Artichaut
+269,septembre,Aubergine
+270,septembre,Betterave
+271,septembre,Blette
+272,septembre,Brocoli
+273,septembre,Carotte
+274,septembre,Chou
+275,septembre,Chou de Bruxelles
+276,septembre,Chou-fleur
+277,septembre,Concombre
+278,septembre,Courge
+279,septembre,Courgette
+280,septembre,Céleri
+281,septembre,Fenouil
+282,septembre,Frisée
+283,septembre,Haricot vert
+284,septembre,Laitue
+285,septembre,Maïs
+286,septembre,Oignon
+287,septembre,Panais
+288,septembre,Poireau
+289,septembre,Poivron
+290,septembre,Pomme de terre
+291,septembre,Potiron
+292,septembre,Radis
+293,septembre,Tomate
+294,septembre,Épinard
+295,septembre,Coing
+296,septembre,Figue
+297,septembre,Melon
+298,septembre,Mirabelle
+299,septembre,Myrtille
+300,septembre,Mûre
+301,septembre,Noisette
+302,septembre,Noix
+303,septembre,Pastèque
+304,septembre,Poire
+305,septembre,Pomme
+306,septembre,Prune
+307,septembre,Pruneau
+308,septembre,Pêche
+309,septembre,Raisin
+310,septembre,Tournesol
+311,octobre,Ail
+312,octobre,Aubergine
+313,octobre,Betterave
+314,octobre,Blette
+315,octobre,Brocoli
+316,octobre,Carotte
+317,octobre,Chou
+318,octobre,Chou de Bruxelles
+319,octobre,Chou-fleur
+320,octobre,Concombre
+321,octobre,Courge
+322,octobre,Courgette
+323,octobre,Céleri
+324,octobre,Endive
+325,octobre,Fenouil
+326,octobre,Frisée
+327,octobre,Haricot vert
+328,octobre,Laitue
+329,octobre,Maïs
+330,octobre,Navet
+331,octobre,Oignon
+332,octobre,Panais
+333,octobre,Poireau
+334,octobre,Pomme de terre
+335,octobre,Potiron
+336,octobre,Radis
+337,octobre,Rutabaga
+338,octobre,Salsifi
+339,octobre,Tomate
+340,octobre,Topinambour
+341,octobre,Épinard
+342,octobre,Châtaigne
+343,octobre,Citron
+344,octobre,Coing
+345,octobre,Figue
+346,octobre,Framboise
+347,octobre,Myrtille
+348,octobre,Noisette
+349,octobre,Noix
+350,octobre,Poire
+351,octobre,Pomme
+352,octobre,Raisin
+353,octobre,Maïs
+354,octobre,Riz
+355,octobre,Soja
+356,octobre,Sorgho
+357,novembre,Ail
+358,novembre,Betterave
+359,novembre,Brocoli
+360,novembre,Cardon
+361,novembre,Carotte
+362,novembre,Chou
+363,novembre,Chou de Bruxelles
+364,novembre,Chou-fleur
+365,novembre,Citrouille
+366,novembre,Courge
+367,novembre,Crosne
+368,novembre,Céleri
+369,novembre,Endive
+370,novembre,Fenouil
+371,novembre,Frisée
+372,novembre,Mâche
+373,novembre,Navet
+374,novembre,Oignon
+375,novembre,Panais
+376,novembre,Poireau
+377,novembre,Pomme de terre
+378,novembre,Potiron
+379,novembre,Radis
+380,novembre,Rutabaga
+381,novembre,Salsifi
+382,novembre,Topinambour
+383,novembre,Épinard
+384,novembre,Châtaigne
+385,novembre,Citron
+386,novembre,Clémentine
+387,novembre,Coing
+388,novembre,Kiwi
+389,novembre,Mandarine
+390,novembre,Orange
+391,novembre,Poire
+392,novembre,Pomme
+393,novembre,Maïs
+394,novembre,Sorgho
+395,decembre,Ail
+396,decembre,Betterave
+397,decembre,Carotte
+398,decembre,Chou
+399,decembre,Chou de Bruxelles
+400,decembre,Courge
+401,decembre,Crosne
+402,decembre,Céleri
+403,decembre,Endive
+404,decembre,Frisée
+405,decembre,Mâche
+406,decembre,Navet
+407,decembre,Oignon
+408,decembre,Panais
+409,decembre,Poireau
+410,decembre,Pomme de terre
+411,decembre,Potiron
+412,decembre,Radis
+413,decembre,Rutabaga
+414,decembre,Salsifi
+415,decembre,Topinambour
+416,decembre,Épinard
+417,decembre,Châtaigne
+418,decembre,Citron
+419,decembre,Clémentine
+420,decembre,Féveroles et fèves
+421,decembre,Kiwi
+422,decembre,Mandarine
+423,decembre,Orange
+424,decembre,Poire
+425,decembre,Pomme
+426,decembre,Avoine d'hiver
+427,decembre,Avoine de printemps
+428,decembre,Blé dur d'hiver et de printemps
+429,decembre,Blé tendre d'hiver et de printemps
+430,decembre,Orge d'hiver
+431,decembre,Orge de printemps
+432,decembre,Pois
+433,decembre,Seigle

@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+	<script src="http://d3js.org/d3.v4.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+	<script src="https://d3js.org/d3-geo-projection.v1.min.js"></script>
+  <script src="versor.js"></script>
+
+<style>
+
+	.route {
+		fill: none;
+		stroke: #ffffff;
+		opacity: 0.5;
+	}
+
+	.land { fill:#661d75;}
+/*
+  //#a8ddb5; }
+  #43a2ca
+*/
+	svg { background: #1d3375 ; }
+
+	.source-port {
+		fill: white;
+		stroke: darkgreen;
+		stroke-width: 2px;
+	}
+</style>
+
+
+</head>
+<body>
+	<div id="map"> </div>
+	<script>
+
+var width = 950; var height = 650;
+
+var proj = d3.geoOrthographic()//geoKavrayskiy7()
+	.scale(280)
+  .rotate([0,0])
+	.translate([width/2,height/2])
+	.precision(0.1);
+
+var path = d3.geoPath().projection(proj);
+var svg = d3.select("#map").append("svg")
+	.attr("width", width)
+	.attr("height", height);
+
+svg.call(d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged));
+
+// Create a few groups to layer elements correctly
+var g1 = svg.append("g");
+
+d3.json("world.json",function(error,world) {
+	g1.insert("path")
+		.datum(topojson.feature(world, world.objects.land))
+		.attr("class", "land")
+		.attr("d", path);
+
+	drawTrade();
+	});
+
+// Draw a set of routes
+function drawTrade() {
+	d3.csv("countries_import.csv", function (error, routes) {
+		var maxVolume = d3.max(routes, function(d) { return d.Masse; });
+
+		routePath = g1.selectAll(".route")
+			.data(routes)
+			.enter()
+			.append("path")
+			.attr("class","route")
+			.style("stroke-width", function(d) {
+        return (Math.log(d.Masse)*0.1);
+			})
+			.attr('d', function(d) {
+        var loc = getLoc(d)
+        return path ({
+				type:"LineString",
+				coordinates: [ [2,46], loc]
+				});
+			})
+    });
+
+	}
+
+  function refresh() {
+    svg.selectAll(".land").attr("d", path);
+    g1.selectAll(".route").attr('d', function(d) {
+      var loc = getLoc(d)
+      return path ({
+      type:"LineString",
+      coordinates: [ [2,46], loc]
+      });
+    })
+  }
+
+
+  function dragstarted() {
+    v0 = versor.cartesian(proj.invert(d3.mouse(this)));
+    r0 = proj.rotate();
+    q0 = versor(r0);
+  }
+
+function dragged() {
+    var v1 = versor.cartesian(proj.rotate(r0).invert(d3.mouse(this))),
+        q1 = versor.multiply(q0, versor.delta(v0, v1)),
+        r1 = versor.rotation(q1);
+    proj.rotate(r1);
+    refresh();
+  }
+
+function getLoc(country_) {
+    var locy = parseInt(country_.loc.split(",")[1]);
+    var locx = parseInt(country_.loc.split(",")[0].substring(1));
+    //var offset = x < width/2 ? -5 : 5;
+    console.log(proj([2,46]))
+    return [locy,locx];
+    //return "translate(" + (x+offset) + "," + (y-2) + ")"
+  }
+	</script>
+
+</body>
+</html>

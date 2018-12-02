@@ -1,0 +1,180 @@
+,Product,Season
+0,Abeille,Printemps
+1,Abeille,Et��
+2,Abeille,Automne
+3,Abeille,Hiver
+4,Asperge,Printemps
+5,Asperge,Et��
+6,Aubergine,Et��
+7,Avoine,Automne
+8,Beurre,Printemps
+9,Beurre,Et��
+10,Beurre,Automne
+11,Beurre,Hiver
+12,Bl�� dur,Et��
+13,"Blette, bette ou poir��e",Printemps
+14,"Blette, bette ou poir��e",Et��
+15,"Blette, bette ou poir��e",Automne
+16,Boeuf,Printemps
+17,Boeuf,Et��
+18,Boeuf,Automne
+19,Boeuf,Hiver
+20,"Boeuf, �� chaque morceau une cuisson",Printemps
+21,"Boeuf, �� chaque morceau une cuisson",Et��
+22,"Boeuf, �� chaque morceau une cuisson",Automne
+23,"Boeuf, �� chaque morceau une cuisson",Hiver
+24,Carotte,Printemps
+25,Carotte,Et��
+26,Carotte,Automne
+27,Carotte,Hiver
+28,C��leri rave,Et��
+29,C��leri rave,Hiver
+30,Cerise,Printemps
+31,Cerise,Et��
+32,Champignon de Paris,Printemps
+33,Champignon de Paris,Et��
+34,Champignon de Paris,Automne
+35,Champignon de Paris,Hiver
+36,Chanvre,Et��
+37,Chanvre en isolation,Printemps
+38,Chanvre en isolation,Et��
+39,Chanvre en isolation,Automne
+40,Chanvre en isolation,Hiver
+41,Chapon,Hiver
+42,Ch��vre,Printemps
+43,Ch��vre,Et��
+44,Ch��vre,Automne
+45,Ch��vre,Hiver
+46,Choux de printemps,Printemps
+47,Cidre,Printemps
+48,Cidre,Et��
+49,Cidre,Automne
+50,Cidre,Hiver
+51,Cochon,Printemps
+52,Cochon,Et��
+53,Cochon,Automne
+54,Cochon,Hiver
+55,Colza,Printemps
+56,Colza,Et��
+57,Colza,Automne
+58,Courges et potirons,Automne
+59,Courgette,Et��
+60,Cresson,Printemps
+61,Cresson,Et��
+62,Cresson,Automne
+63,Cresson,Hiver
+64,Cucurbitac��es,Automne
+65,Cucurbitac��es,Hiver
+66,Endive,Hiver
+67,Escargot,Printemps
+68,Escargot,Automne
+69,Escargot,Hiver
+70,Farines,Printemps
+71,Farines,Et��
+72,Farines,Automne
+73,Farines,Hiver
+74,Fleurs comestibles,Et��
+75,Foie gras,Printemps
+76,Foie gras,Et��
+77,Foie gras,Automne
+78,Foie gras,Hiver
+79,Fraise,Printemps
+80,Fraise,Et��
+81,Framboise,Et��
+82,Fromages de ch��vre,Printemps
+83,Fromages de ch��vre,Et��
+84,G��ranium,Et��
+85,Haricot vert,Et��
+86,Huiles alimentaires,Printemps
+87,Huiles alimentaires,Et��
+88,Huiles alimentaires,Automne
+89,Huiles alimentaires,Hiver
+90,Lait,Printemps
+91,Lait,Et��
+92,Lait,Automne
+93,Lait,Hiver
+94,Lait d’��nesse en cosm��tique,Printemps
+95,Lait d’��nesse en cosm��tique,Et��
+96,Lait d’��nesse en cosm��tique,Automne
+97,Lait d’��nesse en cosm��tique,Hiver
+98,Lait de brebis,Printemps
+99,Lait de brebis,Et��
+100,Lait de brebis,Automne
+101,Lait de ch��vre,Printemps
+102,Lait de ch��vre,Et��
+103,Lait de ch��vre,Automne
+104,M��che,Automne
+105,M��che,Hiver
+106,Malt,Printemps
+107,Malt,Et��
+108,Malt,Automne
+109,Malt,Hiver
+110,Menthe poivr��e de Milly,Printemps
+111,Menthe poivr��e de Milly,Et��
+112,Menthe poivr��e de Milly,Automne
+113,Menthe poivr��e de Milly,Hiver
+114,Miel,Printemps
+115,Miel,Et��
+116,Miel,Automne
+117,Mouton,Printemps
+118,Mouton,Et��
+119,Mouton,Automne
+120,Mouton,Hiver
+121,Oignon,Printemps
+122,Oignon,Automne
+123,Oignon,Hiver
+124,Orge c��r��ale,Printemps
+125,Orge c��r��ale,Et��
+126,Petit ch��vre,Printemps
+127,Petit ch��vre,Et��
+128,Petit pois,Printemps
+129,Petit pois,Et��
+130,Plantation des v��g��taux,Printemps
+131,Plantation des v��g��taux,Et��
+132,Plantation des v��g��taux,Automne
+133,Plantation des v��g��taux,Hiver
+134,Pleurotes,Automne
+135,Pleurotes,Hiver
+136,Poire,Automne
+137,Poire,Hiver
+138,Poireau,Automne
+139,Poireau,Hiver
+140,Pomme de terre,Printemps
+141,Pomme de terre,Et��
+142,Pomme de terre,Automne
+143,Pomme de terre,Hiver
+144,Pomme en sachet,Printemps
+145,Pomme en sachet,Et��
+146,Pomme en sachet,Automne
+147,Pomme en sachet,Hiver
+148,Poule pondeuse,Printemps
+149,Poule pondeuse,Et��
+150,Poule pondeuse,Automne
+151,Poule pondeuse,Hiver
+152,Prune,Et��
+153,Radis rose,Printemps
+154,Radis rose,Et��
+155,Radis rose,Automne
+156,Rhubarbe,Printemps
+157,Safran,Et��
+158,Safran,Automne
+159,Tomates,Et��
+160,Tomates,Automne
+161,Topinambour,Automne
+162,Topinambour,Hiver
+163,Vache �� viande,Printemps
+164,Vache �� viande,Et��
+165,Vache �� viande,Automne
+166,Vache �� viande,Hiver
+167,Vache laiti��re,Printemps
+168,Vache laiti��re,Et��
+169,Vache laiti��re,Automne
+170,Vache laiti��re,Hiver
+171,Volaille,Printemps
+172,Volaille,Et��
+173,Volaille,Automne
+174,Volaille,Hiver
+175,Volailles de chair,Printemps
+176,Volailles de chair,Et��
+177,Volailles de chair,Automne
+178,Volailles de chair,Hiver

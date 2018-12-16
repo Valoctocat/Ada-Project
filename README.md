@@ -4,7 +4,7 @@
 "Think Global buy local" is a rising motto used to address sustainable food trade. Indeed, a lot of food is continuously imported throughout the year. Although seasonal products are highly produced during their respective month, they still constitute a non-negligeable share of the imported products. 
 Buying local food keeps land in production and promotes local economic development by creating jobs and increasing trade. Local production also reduces food safety risks and raises transparency about the food that we buy.  In addition, avoiding long transportation by plane or by boat reduces greenhouse gas emission. . 
 Our analysis is mostly based on informations regarding food import registered at France frontiers, resumed in a dataset from the [French government website]. Associated with other indications about the time of the year in which a product is in season and food production in France, this information gives us good insight to evaluate whether the importation of such products is really necessary.
-This datastory is about analysing what are the dynamics of french seasonal food importations and hopefully will help change ways of consumptions towards a more sustainable food trade.
+This project is about analysing what are the dynamics of french seasonal food importations and hopefully will help change ways of consumptions towards a more sustainable food trade.
 
 ## Research questions
 - From which countries does French seasonal food products mainly come from ?

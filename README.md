@@ -30,37 +30,38 @@ After milestone 2, we realized that our previous dataset (Open Food Facts) was h
 
 Here is a list of what has been done since milestone 2: 
 ### 1/ General description and pre-process of datasets
-Web-scraping - Valentin Gabeff
-Analysis of dataset size and missing values - Valentin Gabeff
-Data cleaning 
-Standardization of our datasets in order to optimize their merging - Maxine Leonardi
+- Web-scraping - Valentin Gabeff
+- Analysis of dataset size and missing values - Valentin Gabeff
+- Data cleaning 
+- Standardization of our datasets in order to optimize their merging - Maxine Leonardi
 
 ### 2/ General Statistics / Plots for Datastory
-Main imported food categories globally and by month  
-Analysis of prevalence of imported cereals - Clara Nguyen
-Comparison of production and importation in France 
-Main importer countries in France globally and by month 
-Detailed analysis of particular countries (main importer or furthest origin) - Clara Nguyen
-Analysis of distribution of the distance traveled by the imported products. 
-Distance travelled by imported product in function of their importation month (bootstrapping,  boxplots) , and correlation of distance with how far the importation month is from the months in which the imported product is in season. - Maxine Leonardi
-Computation of Index of how ‘good’ or ‘bad’ the importation is based on mass and distance traveled by the imported product, and analysis of best and worst products - Valentin Gabeff
+- Main imported food categories globally and by month  
+- Analysis of prevalence of imported cereals - Clara Nguyen
+- Comparison of production and importation in France 
+- Main importer countries in France globally and by month 
+- Detailed analysis of particular countries (main importer or furthest origin) - Clara Nguyen
+- Analysis of distribution of the distance traveled by the imported products. 
+- Distance traveled by imported product in function of their importation month (bootstrapping,  boxplots) , and correlation of distance with how far the importation month is from the months in which the imported product is in season. - Maxine Leonardi
+- Computation of Index of how ‘good’ or ‘bad’ the importation is based on mass and distance traveled by the imported product, and analysis of best and worst products - Valentin Gabeff
+
 For all these tasks, we provided visualization of results using either pandas and matplotlib functions or plotly. 
 
 ### 3/ Tools:
 All the tools require the previous creation of multiple dataframes and the computation of a lot of parameters, that are detailed in the notebook. 
-Tool 1:  Visualization of main importers and main food categories for each country on an interactive globe using Jekyll and D3. 
-Tool 2: For every food category: 
-Visualization of a boxplot of distances traveled by the product
-A table gathering information about when the product is seasonal in France, when it’s significantly more  imported, and with an index that indicates for each month whether buying this product in France is “good” or “bad”, considering the distance travelled and the mass imported. 
-A visualization of the mass imported each month, associated with the months in which they are seasonal. 
+- Tool 1:  Visualization of main importers and main food categories for each country on an interactive globe using Jekyll and D3. 
+- Tool 2: For every food category: 
+* Visualization of a boxplot of distances traveled by the product
+* A table gathering information about when the product is seasonal in France, when it’s significantly more  imported, and with an index that indicates for each month whether buying this product in France is “good” or “bad”, considering the distance travelled and the mass imported. 
+* A visualization of the mass imported each month, associated with the months in which they are seasonal. 
 
 ### 4/ Final layout of notebook and datastory: 
-Notebook layout and annotation 
-Global set up and layout of the datastory - Valentin Gabeff
-Writing of the datastory
+- Notebook layout and annotation 
+- Global set up and layout of the datastory - Valentin Gabeff
+- Writing of the datastory
 
 ### A list of internal milestones up until project milestone 4
 For the presentation we have to:
-Create a poster to present
-Find ways to interactively show the audience how our tools work
-Decide and prepare what is going to be said
+- Create a poster to present
+- Find ways to interactively show the audience how our tools work
+- Decide and prepare what is going to be said

@@ -1,0 +1,709 @@
+,Name,Importation_Month,is_right_season,Higher_import,Index
+0,ble dur,1,False,False,0.3252602828741762
+1,ble dur,12,True,True,0.5702695285672877
+2,ble dur,11,False,True,0.23280027107270387
+3,ble dur,10,False,False,0.655871739940829
+4,ble dur,8,True,True,0.2547563319839497
+5,ble dur,7,True,False,0.37614414802514556
+6,ble dur,9,False,False,0.5071079159298149
+7,ble dur,5,False,False,0.503956301067762
+8,ble dur,4,False,False,0.7298686818260395
+9,ble dur,3,False,False,0.5536315036394736
+10,ble dur,2,False,False,0.42509315981725565
+11,ble dur,6,False,False,0.5891605266131111
+12,ble,8,True,True,0.6011505864259242
+13,ble,12,True,False,0.2709997613880009
+14,ble,11,False,False,0.34912281354420466
+15,ble,10,False,True,0.27211809965578815
+16,ble,9,False,True,0.14463110537220963
+17,ble,7,True,False,0.47771667088993935
+18,ble,3,False,False,0.635439405501959
+19,ble,5,False,False,0.32251650741102084
+20,ble,4,False,False,0.5146115461441321
+21,ble,2,False,False,0.5064348643402862
+22,ble,1,False,False,0.6602654235389422
+23,ble,6,False,False,0.5139012346542052
+24,mais,8,True,False,0.3406566559592686
+25,mais,12,False,True,0.08021541063952502
+26,mais,11,True,True,0.0840655783740144
+27,mais,10,True,False,0.13605441554277037
+28,mais,9,True,False,0.3005289987566773
+29,mais,7,True,False,0.39720020142032425
+30,mais,3,False,False,0.17975136370646602
+31,mais,5,False,False,0.27382793499522834
+32,mais,4,False,False,0.311573389835172
+33,mais,2,False,False,0.34518580863914133
+34,mais,1,False,False,0.3805462005213321
+35,mais,6,False,False,0.3201677348136914
+36,orge,12,True,True,0.3625651174958484
+37,orge,11,False,False,0.5818292390162884
+38,orge,10,False,False,0.6202474232735857
+39,orge,9,False,False,0.5563012199216514
+40,orge,8,True,True,0.4857894034405346
+41,orge,7,True,False,0.3457452831263838
+42,orge,6,True,False,0.6364883264249138
+43,orge,4,False,True,0.385379108219791
+44,orge,3,False,False,0.44135046065304345
+45,orge,2,False,True,0.12077690456924602
+46,orge,1,False,False,0.4994234878952531
+47,orge,5,False,False,0.767523210784547
+48,seigle,9,False,False,0.5878440178899637
+49,seigle,12,True,False,0.7025213947446649
+50,seigle,11,False,False,0.6180359607224664
+51,seigle,10,False,True,0.0
+52,seigle,8,True,False,0.7060986526868119
+53,seigle,1,False,False,1.0
+54,seigle,6,True,True,0.5550895110207241
+55,seigle,5,False,False,0.6223748226082148
+56,seigle,4,False,False,0.778055964379709
+57,seigle,3,False,False,0.6682908213015568
+58,seigle,2,False,False,0.701528409720003
+59,seigle,7,True,False,0.6297852298314836
+60,avoine,12,True,True,0.334817066730043
+61,avoine,11,False,False,0.63340061603683
+62,avoine,10,False,True,0.3014237148596646
+63,avoine,9,False,False,0.7467230433506994
+64,avoine,8,True,False,0.5159684362481752
+65,avoine,7,True,False,0.26923654727500357
+66,avoine,6,True,False,0.25868439693307355
+67,avoine,5,False,False,0.5676896917820188
+68,avoine,4,False,False,0.6219216795526662
+69,avoine,3,False,False,0.5771234945151801
+70,avoine,2,False,False,0.6886907031944793
+71,avoine,1,False,False,0.5391700680592583
+72,sorgho,12,False,True,0.27112007247012065
+73,sorgho,11,True,False,0.3872739596986205
+74,sorgho,10,True,True,0.35458084257048067
+75,sorgho,9,False,False,0.3151009432553636
+76,sorgho,8,False,True,0.35592703187741764
+77,sorgho,7,False,False,0.3833991299687936
+78,sorgho,6,False,False,0.4786395126514442
+79,sorgho,5,False,False,0.33519134698266617
+80,sorgho,4,False,False,0.23750214693632188
+81,sorgho,3,False,False,0.37329584829056034
+82,sorgho,2,False,False,0.45571158561348296
+83,sorgho,1,False,True,0.13996423834818142
+84,haricot vert,12,False,False,0.25096023642891896
+85,haricot vert,11,False,False,0.2162644455075631
+86,haricot vert,10,True,False,0.2970629386335615
+87,haricot vert,9,True,False,0.3700211807337553
+88,haricot vert,8,True,False,0.396673530175602
+89,haricot vert,7,True,False,0.34949986868677474
+90,haricot vert,6,True,False,0.2177716861255954
+91,haricot vert,5,False,False,0.23457063064367847
+92,haricot vert,4,False,False,0.20612610484326646
+93,haricot vert,3,False,True,0.13952922773379609
+94,haricot vert,2,False,True,0.0809533776592191
+95,haricot vert,1,False,False,0.27785924537124224
+96,pois verts,12,True,False,0.4833687154493331
+97,pois verts,11,False,False,0.4065374562988868
+98,pois verts,10,False,False,0.3759123181695896
+99,pois verts,9,False,False,0.37296392761114133
+100,pois verts,8,True,False,0.375189287377099
+101,pois verts,1,False,False,0.43262096213961104
+102,pois verts,6,True,False,0.29333877755443166
+103,pois verts,5,False,False,0.30609602907032574
+104,pois verts,4,False,False,0.4626451715521666
+105,pois verts,3,False,False,0.5971301513843074
+106,pois verts,2,False,True,0.15820565798188235
+107,pois verts,7,True,False,0.29319153790123026
+108,pois chiches secs,12,True,False,0.22371863148221507
+109,pois chiches secs,11,False,False,0.3861926441973001
+110,pois chiches secs,10,False,False,0.36448997987732557
+111,pois chiches secs,9,False,False,0.24618776709180423
+112,pois chiches secs,8,True,False,0.14311287639188078
+113,pois chiches secs,7,True,False,0.23577775094291728
+114,pois chiches secs,6,True,True,0.006601393421753052
+115,pois chiches secs,5,False,False,0.1863307724466179
+116,pois chiches secs,4,False,False,0.13583899880692238
+117,pois chiches secs,3,False,True,0.1409111843635377
+118,pois chiches secs,2,False,False,0.2236568027805769
+119,pois chiches secs,1,False,False,0.44148039184124177
+120,pois secs,12,True,False,0.5754707691508378
+121,pois secs,11,False,False,0.5292131642699206
+122,pois secs,10,False,True,0.33414845967791673
+123,pois secs,9,False,True,0.4746176565347839
+124,pois secs,8,True,False,0.3915007151602012
+125,pois secs,1,False,False,0.5419217260530612
+126,pois secs,6,True,False,0.6171975111871658
+127,pois secs,5,False,False,0.3299877747710434
+128,pois secs,4,False,False,0.3404584882435069
+129,pois secs,3,False,False,0.3301425914698779
+130,pois secs,2,False,False,0.3598938972511756
+131,pois secs,7,True,False,0.33827908128881284
+132,feve de soja,9,False,False,0.3446520187246051
+133,feve de soja,12,False,True,0.23009754734753554
+134,feve de soja,11,False,False,0.40024756897443825
+135,feve de soja,10,True,True,0.0313893405847621
+136,feve de soja,8,False,False,0.204785752049659
+137,feve de soja,1,False,False,0.20153384198773483
+138,feve de soja,6,False,False,0.3888166248249987
+139,feve de soja,2,False,True,0.23186902785727673
+140,feve de soja,3,False,False,0.2692937221534932
+141,feve de soja,7,False,False,0.30422454704817475
+142,feve de soja,5,False,True,0.19599178663685293
+143,feve de soja,4,False,False,0.3927203869389541
+144,graine de colza,12,False,False,0.5387119581173613
+145,graine de colza,11,False,False,0.5433022295701233
+146,graine de colza,10,False,False,0.6045624128281162
+147,graine de colza,8,False,False,0.725066215423511
+148,graine de colza,7,True,True,0.46540780056599607
+149,graine de colza,9,False,True,0.3653376551294114
+150,graine de colza,5,False,False,0.48776038488024964
+151,graine de colza,4,False,False,0.3185740375374157
+152,graine de colza,3,False,False,0.4511432478503184
+153,graine de colza,2,False,False,0.2117295988266815
+154,graine de colza,1,False,False,0.4045952519111638
+155,graine de colza,6,True,False,0.5298208113480761
+156,graine de tournesol,9,True,True,0.24677776789755135
+157,graine de tournesol,12,False,True,0.15020881202260447
+158,graine de tournesol,11,False,False,0.4437406734595511
+159,graine de tournesol,10,False,True,0.10467115122810126
+160,graine de tournesol,8,False,False,0.28662903958944047
+161,graine de tournesol,3,False,False,0.4455591420071359
+162,graine de tournesol,6,False,False,0.25804871987997086
+163,graine de tournesol,5,False,False,0.41670537050631307
+164,graine de tournesol,4,False,False,0.41511059329682065
+165,graine de tournesol,2,False,False,0.4337960151912708
+166,graine de tournesol,7,False,True,0.2713972029658318
+167,graine de tournesol,1,False,False,0.4350476782757719
+168,riz non decortique,8,False,False,0.49464356861917497
+169,riz non decortique,12,False,False,0.28122886583787027
+170,riz non decortique,11,False,False,0.6925391354613257
+171,riz non decortique,10,True,True,0.044723156986540356
+172,riz non decortique,9,False,False,0.2821463483486168
+173,riz non decortique,7,False,False,0.7311840217873403
+174,riz non decortique,5,False,False,0.4908722662053722
+175,riz non decortique,4,False,True,0.3243694578976043
+176,riz non decortique,3,False,False,0.28622504073121996
+177,riz non decortique,2,False,False,0.4482674301811844
+178,riz non decortique,1,False,False,0.5152648802150593
+179,riz non decortique,6,False,False,0.5064060129362423
+180,asperge,12,False,False,0.4531514416123336
+181,asperge,11,False,False,0.4091367283453948
+182,asperge,10,False,False,0.3194768147007457
+183,asperge,9,False,False,0.510621238911496
+184,asperge,8,False,False,0.35576315573252654
+185,asperge,7,True,False,0.3659177688711414
+186,asperge,6,True,False,0.3596597440806441
+187,asperge,5,True,True,0.2998466233907075
+188,asperge,4,True,True,0.23196346241889962
+189,asperge,3,True,False,0.39013298880302133
+190,asperge,2,False,False,0.3254333027151148
+191,asperge,1,False,False,0.3294799461944921
+192,choux,12,True,False,0.2395826641253935
+193,choux,11,True,False,0.19628696899767828
+194,choux,10,True,False,0.33698894999221435
+195,choux,9,True,False,0.1934728501495008
+196,choux,8,False,False,0.39131668399926456
+197,choux,1,True,True,0.13633778909399533
+198,choux,6,False,False,0.137295846500972
+199,choux,5,False,True,0.04381565594509552
+200,choux,4,False,True,0.18314204421871924
+201,choux,3,True,True,0.10477298050461932
+202,choux,2,False,True,0.23203148712009616
+203,choux,7,False,False,0.3246396614234459
+204,choux-fleur et brocoli,9,True,False,0.3645629149909859
+205,choux-fleur et brocoli,12,False,True,0.05697498492640274
+206,choux-fleur et brocoli,11,True,True,0.24791219141658702
+207,choux-fleur et brocoli,10,True,False,0.4165422120782319
+208,choux-fleur et brocoli,8,True,False,0.6902669378876224
+209,choux-fleur et brocoli,1,False,True,0.19679521271784628
+210,choux-fleur et brocoli,6,True,False,0.3942977162326194
+211,choux-fleur et brocoli,2,False,True,0.18849832778937214
+212,choux-fleur et brocoli,3,True,True,0.44044795316762886
+213,choux-fleur et brocoli,7,True,False,0.6718852294708336
+214,choux-fleur et brocoli,5,True,False,0.2921980718474815
+215,choux-fleur et brocoli,4,True,True,0.37677695817684637
+216,epinard,12,True,False,0.2088611921488486
+217,epinard,11,True,False,0.25521011447446096
+218,epinard,10,True,False,0.28794464827443395
+219,epinard,8,True,False,0.664933340931314
+220,epinard,7,True,False,0.38533367092337634
+221,epinard,9,True,False,0.33223953270038836
+222,epinard,5,True,True,0.14450227970965832
+223,epinard,4,True,False,0.32312556413691834
+224,epinard,3,True,False,0.2404826673334214
+225,epinard,2,True,False,0.2360875004717338
+226,epinard,1,True,False,0.16205772547222644
+227,epinard,6,True,True,0.0
+228,artichaut,9,True,False,0.7356356255784132
+229,artichaut,12,False,False,0.6311374020918445
+230,artichaut,11,False,False,0.6657315241779278
+231,artichaut,10,False,False,0.7387378297816118
+232,artichaut,8,True,False,0.7432295802028306
+233,artichaut,2,False,True,0.3826303896913102
+234,artichaut,6,True,False,0.678621243102473
+235,artichaut,5,True,False,0.5390630742361112
+236,artichaut,4,True,True,0.3905446563432074
+237,artichaut,3,False,True,0.0
+238,artichaut,1,False,True,0.4426328353946354
+239,artichaut,7,True,False,0.7377469911831226
+240,pasteque,12,False,False,0.6011890880180096
+241,pasteque,11,False,False,0.640080823147273
+242,pasteque,10,False,False,0.5576034955161989
+243,pasteque,8,True,True,0.4612851784733912
+244,pasteque,9,True,False,0.6179357011416192
+245,pasteque,7,True,True,0.33600629439217083
+246,pasteque,5,False,True,0.3618820563489591
+247,pasteque,4,False,False,0.43085331627070017
+248,pasteque,3,False,False,0.32859149835880636
+249,pasteque,2,False,False,0.4048704627301509
+250,pasteque,1,False,False,0.5008779406511928
+251,pasteque,6,True,True,0.2648702171687703
+252,autre melon,11,False,False,0.5460148144958382
+253,autre melon,10,False,False,0.45143880539819664
+254,autre melon,9,True,False,0.5975372103091359
+255,autre melon,8,True,False,0.5697318657880607
+256,autre melon,7,True,True,0.22665048087034023
+257,autre melon,12,False,False,0.5502553189249646
+258,autre melon,5,False,True,0.17608073018743742
+259,autre melon,4,False,False,0.33877075456515987
+260,autre melon,3,False,False,0.26494729111178306
+261,autre melon,2,False,False,0.358964004124454
+262,autre melon,1,False,False,0.47083792458669166
+263,autre melon,6,True,True,0.18649768239858602
+264,piment et poivron vert (uniquement capsicum),12,False,False,0.15645844459871153
+265,piment et poivron vert (uniquement capsicum),11,False,False,0.12461016798165035
+266,piment et poivron vert (uniquement capsicum),10,False,False,0.20462988451036854
+267,piment et poivron vert (uniquement capsicum),9,True,False,0.23929212883120862
+268,piment et poivron vert (uniquement capsicum),8,True,False,0.19933520211711353
+269,piment et poivron vert (uniquement capsicum),7,True,False,0.15878052143388469
+270,piment et poivron vert (uniquement capsicum),5,False,True,0.06577723868904758
+271,piment et poivron vert (uniquement capsicum),4,False,True,0.010394618381199984
+272,piment et poivron vert (uniquement capsicum),3,False,True,0.0333640200374457
+273,piment et poivron vert (uniquement capsicum),2,False,False,0.05399445800226301
+274,piment et poivron vert (uniquement capsicum),1,False,False,0.12426788259687777
+275,piment et poivron vert (uniquement capsicum),6,True,True,0.0654717810332264
+276,concombre et cornichon,12,False,True,0.21405356394418837
+277,concombre et cornichon,11,False,True,0.110515921406856
+278,concombre et cornichon,10,True,False,0.2696109557750144
+279,concombre et cornichon,9,True,False,0.11289906276963702
+280,concombre et cornichon,8,True,False,0.487092634076578
+281,concombre et cornichon,7,True,False,0.32739178168162814
+282,concombre et cornichon,5,True,False,0.11785684947383203
+283,concombre et cornichon,1,False,True,0.35481358051861406
+284,concombre et cornichon,2,False,True,0.11347493075284769
+285,concombre et cornichon,6,True,False,0.20902921115615306
+286,concombre et cornichon,4,True,False,0.15414447499601733
+287,concombre et cornichon,3,False,True,0.2009907191852933
+288,aubergine,12,False,False,0.24777961459503448
+289,aubergine,11,False,False,0.1878729916167111
+290,aubergine,10,True,False,0.12239853934773481
+291,aubergine,8,True,False,0.22990128936808438
+292,aubergine,7,True,False,0.27403261145278357
+293,aubergine,9,True,False,0.24179544101023084
+294,aubergine,5,True,True,0.10029121895800454
+295,aubergine,4,False,True,0.10238341570446853
+296,aubergine,3,False,True,0.13538752814717905
+297,aubergine,2,False,False,0.14401645599076526
+298,aubergine,1,False,False,0.16286236623399966
+299,aubergine,6,True,False,0.19678075459507668
+300,tomate,9,True,False,0.3328679560310757
+301,tomate,12,False,True,0.2559887836310791
+302,tomate,11,False,False,0.10014731527894916
+303,tomate,10,True,False,0.25269643891050914
+304,tomate,8,True,False,0.28344000312948314
+305,tomate,3,False,True,0.13653876597393946
+306,tomate,6,True,False,0.32453005716468025
+307,tomate,5,True,False,0.3785586690783036
+308,tomate,4,False,False,0.22177457806527126
+309,tomate,2,False,True,0.22824194454585775
+310,tomate,7,True,False,0.514181583576118
+311,tomate,1,False,True,0.2560040845645882
+312,autre legume a fruit n.c.a.,8,True,False,0.2981254485663534
+313,autre legume a fruit n.c.a.,12,True,False,0.10070628540722498
+314,autre legume a fruit n.c.a.,11,True,False,0.10455102598056287
+315,autre legume a fruit n.c.a.,10,True,False,0.17355883967923033
+316,autre legume a fruit n.c.a.,9,True,False,0.28562198170515246
+317,autre legume a fruit n.c.a.,7,True,False,0.2731843267802087
+318,autre legume a fruit n.c.a.,5,True,False,0.09981844390981058
+319,autre legume a fruit n.c.a.,4,False,True,0.015393247028669689
+320,autre legume a fruit n.c.a.,3,False,True,0.001457720447879851
+321,autre legume a fruit n.c.a.,2,False,True,0.058645091154323044
+322,autre legume a fruit n.c.a.,1,False,True,0.03769252787167466
+323,autre legume a fruit n.c.a.,6,True,False,0.2260268454160764
+324,carotte et navet,12,True,False,0.18199968583125944
+325,carotte et navet,11,True,False,0.18096837444561784
+326,carotte et navet,10,True,False,0.2504249730518724
+327,carotte et navet,9,True,False,0.22940374829975765
+328,carotte et navet,8,True,False,0.289104864748228
+329,carotte et navet,7,True,False,0.2142339617230187
+330,carotte et navet,6,True,True,0.07804791130359999
+331,carotte et navet,5,True,True,0.03909236822668779
+332,carotte et navet,4,True,True,0.12151792374383803
+333,carotte et navet,3,True,False,0.1573232586787806
+334,carotte et navet,2,True,False,0.23845193962918634
+335,carotte et navet,1,True,False,0.2724787611190094
+336,ail,12,True,False,0.32055193282352556
+337,ail,11,True,False,0.4046516743082309
+338,ail,10,True,False,0.369547092255096
+339,ail,9,True,False,0.3027583514065533
+340,ail,8,True,False,0.2813325818953693
+341,ail,1,True,False,0.29812201415810796
+342,ail,6,True,False,0.2595537291915158
+343,ail,5,True,False,0.3111832826458927
+344,ail,4,True,False,0.08320568540686532
+345,ail,3,True,True,0.24063086027501854
+346,ail,2,True,True,0.27146211113645563
+347,ail,7,True,True,0.2565899609911944
+348,oignon,9,True,False,0.4219584616175463
+349,oignon,12,True,False,0.3094626430692567
+350,oignon,11,True,False,0.4029303234417673
+351,oignon,10,True,False,0.3799680538979125
+352,oignon,8,True,False,0.36063842775344623
+353,oignon,7,True,False,0.20839521361166402
+354,oignon,6,True,True,0.08922979710957513
+355,oignon,5,True,True,0.147948929026031
+356,oignon,4,True,True,0.10375157907106554
+357,oignon,3,True,False,0.1334509270654898
+358,oignon,2,True,False,0.39319376343736007
+359,oignon,1,True,False,0.3470856258946256
+360,poireaux et autre alliace,12,True,True,0.06697486412445056
+361,poireaux et autre alliace,11,True,True,0.051289163044200496
+362,poireaux et autre alliace,10,True,False,0.3377742265826789
+363,poireaux et autre alliace,9,True,False,0.40720451873144037
+364,poireaux et autre alliace,8,False,False,0.40028858501111014
+365,poireaux et autre alliace,7,False,False,0.3836073316925102
+366,poireaux et autre alliace,6,False,False,0.18479941226413943
+367,poireaux et autre alliace,5,False,True,0.14463876428525005
+368,poireaux et autre alliace,4,True,False,0.26564220848760295
+369,poireaux et autre alliace,3,True,False,0.26511175529219394
+370,poireaux et autre alliace,2,True,False,0.23972492363390682
+371,poireaux et autre alliace,1,True,True,0.14824476516203144
+372,pomme de terre,12,True,False,0.3248603955884019
+373,pomme de terre,11,True,False,0.30483411098882734
+374,pomme de terre,9,True,False,0.2641527768839784
+375,pomme de terre,8,True,True,0.24375458806256708
+376,pomme de terre,7,True,False,0.37584129405415484
+377,pomme de terre,10,True,True,0.21265201266920034
+378,pomme de terre,5,True,False,0.2689903008055827
+379,pomme de terre,4,True,False,0.2562565008073284
+380,pomme de terre,3,True,False,0.16167351921100856
+381,pomme de terre,2,True,False,0.2609746972782585
+382,pomme de terre,1,True,False,0.20605299841070987
+383,pomme de terre,6,True,False,0.1181077213588503
+384,betterave a sucre,12,True,False,0.7533959856418803
+385,betterave a sucre,11,True,False,0.7346888522624487
+386,betterave a sucre,10,True,False,0.7467553582084889
+387,betterave a sucre,9,True,False,0.7263664007683457
+388,betterave a sucre,8,True,False,0.24361633868445806
+389,betterave a sucre,7,True,False,0.7429533552577915
+390,betterave a sucre,6,True,True,0.4689561398673356
+391,betterave a sucre,5,True,False,0.7263142377448487
+392,betterave a sucre,4,True,False,0.7194431194905988
+393,betterave a sucre,3,True,False,0.5363201915957108
+394,betterave a sucre,2,True,False,0.7591084203101914
+395,betterave a sucre,1,True,False,0.7349046929330726
+396,semence de betterave a sucre,12,True,False,0.5104760190012291
+397,semence de betterave a sucre,11,True,False,0.621078888479781
+398,semence de betterave a sucre,10,True,False,0.37090955397061526
+399,semence de betterave a sucre,9,True,False,0.3462757329385781
+400,semence de betterave a sucre,8,True,False,0.605389370146766
+401,semence de betterave a sucre,7,True,False,0.4981893966378667
+402,semence de betterave a sucre,6,True,False,0.40263086719164926
+403,semence de betterave a sucre,5,True,False,0.7569655324871216
+404,semence de betterave a sucre,4,True,False,0.6512911484929114
+405,semence de betterave a sucre,3,True,False,0.2232504010773113
+406,semence de betterave a sucre,2,True,True,0.19623418652544874
+407,semence de betterave a sucre,1,True,False,0.43874550474890833
+408,semence de betterave et de plante fourragere,12,True,False,0.49526454389474356
+409,semence de betterave et de plante fourragere,11,True,False,0.3866814194538999
+410,semence de betterave et de plante fourragere,10,True,False,0.2842389544817572
+411,semence de betterave et de plante fourragere,9,True,False,0.35862607394739343
+412,semence de betterave et de plante fourragere,8,True,False,0.14693245758040904
+413,semence de betterave et de plante fourragere,7,True,False,0.19310768574992543
+414,semence de betterave et de plante fourragere,6,True,True,0.047232700053461106
+415,semence de betterave et de plante fourragere,5,True,True,0.18847243787264223
+416,semence de betterave et de plante fourragere,4,True,True,0.16869450137172845
+417,semence de betterave et de plante fourragere,3,True,True,0.07961428370553943
+418,semence de betterave et de plante fourragere,2,True,False,0.3290188633995535
+419,semence de betterave et de plante fourragere,1,True,False,0.23425880478865183
+420,raisin de table,12,False,False,0.3770087908587214
+421,raisin de table,11,False,True,0.33310673939129204
+422,raisin de table,10,True,True,0.13771485953885448
+423,raisin de table,9,True,True,0.24278562872980305
+424,raisin de table,8,True,False,0.3948821275327523
+425,raisin de table,1,False,False,0.3991698886625974
+426,raisin de table,6,False,False,0.5202870305257868
+427,raisin de table,5,False,False,0.41101709369407
+428,raisin de table,4,False,False,0.39416966908561707
+429,raisin de table,3,False,False,0.2843948137882146
+430,raisin de table,2,False,False,0.4252053687475666
+431,raisin de table,7,False,False,0.5415559115769647
+432,autre raisin frais,12,False,False,0.5572459177449048
+433,autre raisin frais,11,False,True,0.5079142877164391
+434,autre raisin frais,10,True,True,0.5659928214093098
+435,autre raisin frais,9,True,True,0.5148938249290002
+436,autre raisin frais,8,True,False,0.7788085980934212
+437,autre raisin frais,7,False,False,0.6408100611230582
+438,autre raisin frais,6,False,False,0.6038159161172982
+439,autre raisin frais,5,False,False,0.2819382267694643
+440,autre raisin frais,4,False,False,0.5303765723202823
+441,autre raisin frais,3,False,False,0.4634799851154072
+442,autre raisin frais,2,False,False,0.6222187750450852
+443,autre raisin frais,1,False,False,0.5794279773637137
+444,figue,12,False,False,0.3901953916700324
+445,figue,11,False,False,0.3811767064690644
+446,figue,10,True,True,0.3493593117136928
+447,figue,9,True,True,0.40912832827360907
+448,figue,8,True,True,0.2770064604599629
+449,figue,1,False,False,0.4567594749782004
+450,figue,6,False,False,0.505808191421291
+451,figue,5,False,False,0.5596911474815864
+452,figue,4,False,False,0.46836242880476747
+453,figue,3,False,False,0.3299469137177405
+454,figue,2,False,False,0.5105661624173431
+455,figue,7,True,False,0.5997640937205727
+456,pomelo et pamplemousse,9,False,True,0.055290727611169745
+457,pomelo et pamplemousse,12,False,True,0.1349880854108896
+458,pomelo et pamplemousse,11,False,True,0.11053003007468805
+459,pomelo et pamplemousse,10,False,True,0.07729444058057165
+460,pomelo et pamplemousse,8,False,False,0.1430257535788314
+461,pomelo et pamplemousse,1,True,False,0.2710262665389194
+462,pomelo et pamplemousse,6,True,False,0.25733749167558456
+463,pomelo et pamplemousse,2,True,False,0.23401449187764314
+464,pomelo et pamplemousse,3,True,True,0.14064465012709446
+465,pomelo et pamplemousse,7,False,False,0.11437202055928754
+466,pomelo et pamplemousse,5,True,False,0.2699798510032033
+467,pomelo et pamplemousse,4,True,False,0.2641891581520665
+468,citron et lime,12,True,True,0.0888686406055133
+469,citron et lime,11,True,False,0.22461189356077213
+470,citron et lime,10,True,False,0.1674613528231306
+471,citron et lime,8,False,True,0.08056403615836127
+472,citron et lime,7,False,False,0.05678638680036541
+473,citron et lime,9,False,False,0.09427536950441988
+474,citron et lime,5,False,True,0.12675402540015981
+475,citron et lime,4,True,False,0.18921906813820166
+476,citron et lime,3,True,True,0.10700683059848475
+477,citron et lime,2,True,False,0.14268630186097395
+478,citron et lime,1,True,False,0.1732349349881317
+479,citron et lime,6,True,False,0.10480827717816778
+480,orange,9,False,False,0.19782366151875716
+481,orange,12,True,False,0.37890462524700835
+482,orange,11,True,False,0.36526960267281283
+483,orange,10,False,False,0.2546252399292474
+484,orange,8,False,False,0.3117770147774512
+485,orange,3,True,True,0.1914912258383613
+486,orange,6,False,False,0.4001480386184127
+487,orange,5,False,False,0.4417320382259418
+488,orange,4,False,True,0.3330857965806652
+489,orange,2,True,True,0.2743513614580229
+490,orange,7,False,False,0.2973019280093237
+491,orange,1,True,True,0.24833930285548034
+492,mandarine et clementine,8,False,False,0.377460563686483
+493,mandarine et clementine,12,True,True,0.1899669813229563
+494,mandarine et clementine,11,True,True,0.2783977183140342
+495,mandarine et clementine,10,False,False,0.2769977479816064
+496,mandarine et clementine,9,False,False,0.36637481271960376
+497,mandarine et clementine,7,False,False,0.3308846912333399
+498,mandarine et clementine,5,False,False,0.6544831367911604
+499,mandarine et clementine,4,False,False,0.5743286920167808
+500,mandarine et clementine,3,False,False,0.4792828404594616
+501,mandarine et clementine,2,True,True,0.37129251344191455
+502,mandarine et clementine,1,True,True,0.3392231915686174
+503,mandarine et clementine,6,False,False,0.49068191015733814
+504,pomme,12,True,False,0.38424932019418295
+505,pomme,11,True,False,0.25385474950171166
+506,pomme,10,True,False,0.25730582351723313
+507,pomme,9,True,False,0.2903840067190174
+508,pomme,8,True,False,0.27166816347896167
+509,pomme,7,False,True,0.10637550267285412
+510,pomme,6,True,True,0.048445995203036184
+511,pomme,5,False,False,0.07700690040090877
+512,pomme,4,True,True,0.09372566954835472
+513,pomme,3,True,False,0.2298069817207193
+514,pomme,2,True,False,0.24936779264025818
+515,pomme,1,True,False,0.3272893192593726
+516,poire,12,True,False,0.36866729508801227
+517,poire,11,True,False,0.29088476374649924
+518,poire,10,True,False,0.28623998468150447
+519,poire,9,True,False,0.2700622327672563
+520,poire,8,True,False,0.496012530898879
+521,poire,1,True,False,0.30787924764056057
+522,poire,6,False,False,0.3273978589023225
+523,poire,5,False,False,0.24197323996729034
+524,poire,4,False,True,0.0
+525,poire,3,True,True,0.17191837128826007
+526,poire,2,True,False,0.2206572106229269
+527,poire,7,True,False,0.44158675971847366
+528,coing,9,True,False,0.6233991950940142
+529,coing,12,False,True,0.6171135985606664
+530,coing,11,True,True,0.3428686950368948
+531,coing,10,True,True,0.5172225442099939
+532,coing,8,False,False,0.41728208431654856
+533,coing,4,False,False,0.7829068823985481
+534,coing,6,False,False,0.5532731114193347
+535,coing,5,False,False,0.3321224119332416
+536,coing,7,False,False,0.895942258330425
+537,coing,3,False,True,0.40381738680296086
+538,coing,2,False,False,0.5380599814388525
+539,coing,1,False,False,0.7763863683145003
+540,abricot,12,False,False,0.5980783888519102
+541,abricot,11,False,False,0.6992242781247548
+542,abricot,10,False,False,0.86606030658736
+543,abricot,9,False,False,0.744436961377089
+544,abricot,8,True,False,0.6893045033810189
+545,abricot,4,False,False,0.7922551093436884
+546,abricot,6,True,True,0.40760031463139484
+547,abricot,5,False,True,0.5326596585339409
+548,abricot,3,False,False,0.7017337021891783
+549,abricot,2,False,False,0.3323894939679715
+550,abricot,1,False,False,0.34524735463904616
+551,abricot,7,True,False,0.7041990226121607
+552,cerise,12,False,False,0.5157433605530395
+553,cerise,11,False,False,0.380832516389297
+554,cerise,10,False,False,0.8997941577062608
+555,cerise,9,False,False,0.6891667469547743
+556,cerise,8,False,False,0.7418788893459253
+557,cerise,7,True,True,0.5049185149987837
+558,cerise,6,True,True,0.46574802543958893
+559,cerise,5,True,True,0.641899912429129
+560,cerise,4,False,False,0.9006577727606935
+561,cerise,3,False,False,0.33207125752211264
+562,cerise,2,False,False,0.45787601019790386
+563,cerise,1,False,False,0.35007494044209503
+564,kiwi,12,True,False,0.3099963791007434
+565,kiwi,11,True,True,0.18549118734759773
+566,kiwi,10,False,True,0.08804401192621787
+567,kiwi,9,False,True,0.04557272544418933
+568,kiwi,8,False,False,0.2852008847407444
+569,kiwi,1,True,False,0.3239466797241903
+570,kiwi,6,False,True,0.09970222242513711
+571,kiwi,5,False,True,0.09719251186259315
+572,kiwi,4,False,False,0.25762025673337224
+573,kiwi,3,True,False,0.36485071535464925
+574,kiwi,2,True,False,0.3764904259441775
+575,kiwi,7,False,True,0.15190751695923732
+576,framboise,9,False,False,0.5488982066213858
+577,framboise,12,False,False,0.19771953973050851
+578,framboise,11,False,False,0.3620750951508762
+579,framboise,10,True,False,0.5860523348846991
+580,framboise,8,True,False,0.5462459310676144
+581,framboise,7,True,False,0.5318682999789582
+582,framboise,6,True,True,0.36269665827107705
+583,framboise,5,False,False,0.36281694885739246
+584,framboise,4,False,False,0.27146087201351754
+585,framboise,3,False,False,0.27735563739913055
+586,framboise,2,False,True,0.16340521819819961
+587,framboise,1,False,True,0.0
+588,fraises,12,False,False,0.4127906370345702
+589,fraises,11,False,False,0.3220183626110877
+590,fraises,10,False,False,0.40891652616449553
+591,fraises,9,False,False,0.5610224523930124
+592,fraises,8,True,False,0.5473631170381922
+593,fraises,7,True,False,0.352953622332915
+594,fraises,6,True,False,0.3426044713507162
+595,fraises,5,True,True,0.32578998813962673
+596,fraises,4,False,True,0.3875553171516695
+597,fraises,3,False,True,0.30921773847541917
+598,fraises,2,False,False,0.4729378042746711
+599,fraises,1,False,False,0.41002332227395355
+600,autre baie fruit du genre vaccinium n.c.a.,12,False,False,0.25166602233798924
+601,autre baie fruit du genre vaccinium n.c.a.,11,False,False,0.22733693915526917
+602,autre baie fruit du genre vaccinium n.c.a.,10,False,False,0.3498826717694863
+603,autre baie fruit du genre vaccinium n.c.a.,9,True,False,0.49251176296684435
+604,autre baie fruit du genre vaccinium n.c.a.,8,True,False,0.6501645558441101
+605,autre baie fruit du genre vaccinium n.c.a.,1,False,False,0.33704888174149134
+606,autre baie fruit du genre vaccinium n.c.a.,6,True,True,0.42475933219045087
+607,autre baie fruit du genre vaccinium n.c.a.,5,False,True,0.2932276301478877
+608,autre baie fruit du genre vaccinium n.c.a.,4,False,True,0.4230736756438676
+609,autre baie fruit du genre vaccinium n.c.a.,3,False,False,0.441034518166948
+610,autre baie fruit du genre vaccinium n.c.a.,2,False,False,0.5248155997851524
+611,autre baie fruit du genre vaccinium n.c.a.,7,True,False,0.5917687893967728
+612,chataigne et marron,8,False,False,0.3178846468564474
+613,chataigne et marron,12,True,True,0.3191639665728779
+614,chataigne et marron,11,True,True,0.3145028113243272
+615,chataigne et marron,9,False,False,0.5733811188220294
+616,chataigne et marron,7,False,False,0.5474727708938185
+617,chataigne et marron,10,True,False,0.6255947525206293
+618,chataigne et marron,5,False,False,0.5013593324208011
+619,chataigne et marron,4,False,False,0.5591954940352722
+620,chataigne et marron,6,False,False,0.49790543703779616
+621,chataigne et marron,3,False,False,0.5112419335236513
+622,chataigne et marron,2,False,False,0.6220028318748682
+623,chataigne et marron,1,False,False,0.5697775880643379
+624,noisette,12,False,False,0.09957689778734731
+625,noisette,11,False,False,0.06545397033418042
+626,noisette,10,True,True,0.027197400680572012
+627,noisette,9,True,True,0.25379064138480495
+628,noisette,8,True,True,0.16193372848827217
+629,noisette,4,False,False,0.2057245802949037
+630,noisette,6,False,False,0.21507887313675625
+631,noisette,5,False,False,0.39530851221900737
+632,noisette,3,False,False,0.12929062258211418
+633,noisette,2,False,False,0.4020409387936487
+634,noisette,1,False,False,0.06732659358072052
+635,noisette,7,False,False,0.4136992717274066
+636,noix,12,False,True,0.0
+637,noix,11,False,True,0.05956826481325898
+638,noix,10,True,False,0.37738755427359977
+639,noix,9,True,False,0.28932177043448104
+640,noix,8,False,False,0.33041978670396616
+641,noix,7,False,False,0.2794605783954988
+642,noix,6,False,False,0.3486534294143446
+643,noix,5,False,False,0.28427590977255196
+644,noix,4,False,False,0.29307385480069975
+645,noix,3,False,False,0.23056438324727022
+646,noix,2,False,True,0.24346281178556614
+647,noix,1,False,True,0.025464271743188754
+648,piment et poivron (capsicum spp.) seche brut,12,False,False,0.31132164485300784
+649,piment et poivron (capsicum spp.) seche brut,11,False,False,0.16999620015822292
+650,piment et poivron (capsicum spp.) seche brut,10,False,False,0.2704009043748188
+651,piment et poivron (capsicum spp.) seche brut,9,True,False,0.13190005516226053
+652,piment et poivron (capsicum spp.) seche brut,8,True,False,0.3709827072589667
+653,piment et poivron (capsicum spp.) seche brut,1,False,False,0.30172539069768617
+654,piment et poivron (capsicum spp.) seche brut,6,True,False,0.27462013224708787
+655,piment et poivron (capsicum spp.) seche brut,5,False,False,0.18834465093531863
+656,piment et poivron (capsicum spp.) seche brut,4,False,True,0.20591360831262132
+657,piment et poivron (capsicum spp.) seche brut,3,False,True,0.21119953279591927
+658,piment et poivron (capsicum spp.) seche brut,2,False,True,0.24095580207566078
+659,piment et poivron (capsicum spp.) seche brut,7,True,True,0.022559783820655113
+660,ani badiane coriandre cumin carvi fenouil et genievre brut,12,False,False,0.24239266478635504
+661,ani badiane coriandre cumin carvi fenouil et genievre brut,11,True,True,0.15259203028852544
+662,ani badiane coriandre cumin carvi fenouil et genievre brut,8,True,False,0.26708816992250367
+663,ani badiane coriandre cumin carvi fenouil et genievre brut,9,True,False,0.18909751309805223
+664,ani badiane coriandre cumin carvi fenouil et genievre brut,7,True,False,0.27539350548430286
+665,ani badiane coriandre cumin carvi fenouil et genievre brut,10,True,False,0.20793144297287136
+666,ani badiane coriandre cumin carvi fenouil et genievre brut,5,False,True,0.1867542872917621
+667,ani badiane coriandre cumin carvi fenouil et genievre brut,6,True,True,0.13401023382591284
+668,ani badiane coriandre cumin carvi fenouil et genievre brut,1,False,False,0.29265319791659355
+669,ani badiane coriandre cumin carvi fenouil et genievre brut,4,False,False,0.39846150743008407
+670,ani badiane coriandre cumin carvi fenouil et genievre brut,3,False,True,0.19393291087468342
+671,ani badiane coriandre cumin carvi fenouil et genievre brut,2,False,False,0.20945914654407907
+672,laitue et chicoree,2,False,True,0.2729318539765611
+673,laitue et chicoree,12,False,True,0.31338821829909985
+674,laitue et chicoree,11,False,False,0.3324185319799377
+675,laitue et chicoree,1,False,True,0.054504971521922664
+676,laitue et chicoree,8,True,False,0.4301536739229326
+677,laitue et chicoree,10,False,False,0.4915323080946095
+678,laitue et chicoree,6,True,False,0.2826952236189437
+679,laitue et chicoree,5,False,False,0.09742071534257031
+680,laitue et chicoree,4,False,True,0.005632179806877848
+681,laitue et chicoree,3,False,True,0.22210525082751895
+682,laitue et chicoree,7,True,False,0.31511647282138305
+683,laitue et chicoree,9,True,False,0.4571148487201224
+684,peche et nectarine,8,True,True,0.49419349155655984
+685,peche et nectarine,12,False,False,0.4938788500458285
+686,peche et nectarine,11,False,False,0.47861933611430024
+687,peche et nectarine,10,False,False,0.6720952426186431
+688,peche et nectarine,9,True,True,0.6229135845973856
+689,peche et nectarine,6,True,True,0.45958480703972177
+690,peche et nectarine,5,False,False,0.5474378270471265
+691,peche et nectarine,7,True,True,0.5341916600856059
+692,peche et nectarine,1,False,False,0.41062635875944736
+693,peche et nectarine,4,False,False,0.6797741132244232
+694,peche et nectarine,3,False,False,0.5168689918191154
+695,peche et nectarine,2,False,False,0.33117687346107477
+696,prune et prunelle,1,False,False,0.3049873809192758
+697,prune et prunelle,2,False,False,0.40793116087695785
+698,prune et prunelle,3,False,False,0.4659299943480482
+699,prune et prunelle,12,False,False,0.7024309208468914
+700,prune et prunelle,5,True,False,0.3236104736690191
+701,prune et prunelle,6,True,False,0.5075914685162036
+702,prune et prunelle,7,True,False,0.4056899565864514
+703,prune et prunelle,8,True,True,0.46314191507015806
+704,prune et prunelle,9,True,True,0.4751072098633074
+705,prune et prunelle,10,True,True,0.2835713309075701
+706,prune et prunelle,11,False,True,0.6835303547399025
+707,prune et prunelle,4,True,False,0.41522975824594566

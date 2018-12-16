@@ -51,9 +51,9 @@ For all these tasks, we provided visualization of results using either pandas an
 All the tools require the previous creation of multiple dataframes and the computation of a lot of parameters, that are detailed in the notebook. 
 - Tool 1:  Visualization of main importers and main food categories for each country on an interactive globe using Jekyll and D3. 
 - Tool 2: For every food category: 
-* Visualization of a boxplot of distances traveled by the product
-* A table gathering information about when the product is seasonal in France, when it’s significantly more  imported, and with an index that indicates for each month whether buying this product in France is “good” or “bad”, considering the distance travelled and the mass imported. 
-* A visualization of the mass imported each month, associated with the months in which they are seasonal. 
+      * Visualization of a boxplot of distances traveled by the product
+      * A table gathering information about when the product is seasonal in France, when it’s significantly more  imported, and with an index that indicates for each month whether buying this product in France is “good” or “bad”, considering the distance travelled and the mass imported. 
+      * A visualization of the mass imported each month, associated with the months in which they are seasonal. 
 
 ### 4/ Final layout of notebook and datastory: 
 - Notebook layout and annotation 

@@ -1,5 +1,7 @@
 # Think Global Buy Local!  
 
+Link to Data Story : [Think Global, Buy Local](http://furry-pancake.github.io)
+
 ## Abstract
 "Think Global buy local" is a rising motto used to address sustainable food trade. Indeed, a lot of food is continuously imported throughout the year. Although seasonal products are highly produced during their respective month, they still constitute a non-negligeable share of the imported products. 
 Buying local food keeps land in production and promotes local economic development by creating jobs and increasing trade. Local production also reduces food safety risks and raises transparency about the food that we buy.  In addition, avoiding long transportation by plane or by boat reduces greenhouse gas emission. . 

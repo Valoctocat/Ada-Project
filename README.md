@@ -25,42 +25,44 @@ We also needed information regarding the months in which a product is seasonal i
 A major part of our work was to match the products names together in  these different dataframes, in order to merge them. This was achieved by several standardization functions. Once merged, the combination of these file allowed us to have a good insight in French importation. For further analysis, we chose to study only products that can be produced in France. “Exotic” products like bananas or coconut are not taken in account. We assumed that these products are constantly imported all year, and the justification of this importation does not change according to the season in France, as they can never be produced in France. In addition, products like meats are not coherent with the concept of ‘seasonal’ products, and are therefore not considered. Finally, our analysis is based on 16165 entries of the importation dataset. 
 
 ## A list of internal milestones up until project milestone 3
-After milestone 2, we realized that our previous dataset (Open Food Facts) was highly biased for the informations that we needed and we decided to restart our project on the current dataset. All the previously planned milestones had to be adapted to our new dataset, and all the phases of data cleaning and data description had to be re-done. 
+After milestone 2, we realized that our previous dataset (Open Food Facts) was highly biased for the informations that we needed and we decided to restart our project on the current dataset. All the previously planned milestones had to be adapted to our new dataset, and all the phases of data cleaning and data description had to be done again. 
 
 Here is a list of what has been done since milestone 2: 
 ### 1/ General description and pre-process of datasets
 - Web-scraping - Valentin Gabeff
 - Analysis of dataset size and missing values - Valentin Gabeff
-- Data cleaning 
+- Data cleaning - Maxine Leonardi, Clara Nguyen
 - Standardization of our datasets in order to optimize their merging - Maxine Leonardi
 
 ### 2/ General Statistics / Plots for Datastory
-- Main imported food categories globally and by month  
+- Main imported food categories globally and by month - Valentin Gabeff 
 - Analysis of prevalence of imported cereals - Clara Nguyen
-- Comparison of production and importation in France 
-- Main importer countries in France globally and by month 
+- Comparison of production and importation in France - Maxine Leonardi, Clara Nguyen
+- Main importer countries in France globally and by month - Clara Nguyen
 - Detailed analysis of particular countries (main importer or furthest origin) - Clara Nguyen
 - Analysis of distribution of the distance traveled by the imported products. 
-- Distance traveled by imported product in function of their importation month (bootstrapping,  boxplots) , and correlation of distance with how far the importation month is from the months in which the imported product is in season. - Maxine Leonardi
+- Distance traveled by imported product in function of their importation month (bootstrapping,  boxplots) , and correlation of distance with how far the importation month is from the months in which the imported product is in season. - Maxine Leonardi, Valentin Gabeff
 - Computation of Index of how ‘good’ or ‘bad’ the importation is based on mass and distance traveled by the imported product, and analysis of best and worst products - Valentin Gabeff
 
 For all these tasks, we provided visualization of results using either pandas and matplotlib functions or plotly. 
 
 ### 3/ Tools:
 All the tools require the previous creation of multiple dataframes and the computation of a lot of parameters, that are detailed in the notebook. 
-- Tool 1:  Visualization of main importers and main food categories for each country on an interactive globe using Jekyll and D3. 
+- Tool 1:  Visualization of main importers and main food categories for each country on an interactive globe using Jekyll and D3.  Valentin Gabeff
 - Tool 2: For every food category: 
       * Visualization of a boxplot of distances traveled by the product
       * A table gathering information about when the product is seasonal in France, when it’s significantly more  imported, and with an index that indicates for each month whether buying this product in France is “good” or “bad”, considering the distance travelled and the mass imported. 
       * A visualization of the mass imported each month, associated with the months in which they are seasonal. 
+Valentin Gabeff, Clara nguyen, MAxine Leonardi
 
 ### 4/ Final layout of notebook and datastory: 
-- Notebook layout and annotation 
+- Notebook layout and annotation - clara Nguyen, Maxine Leonardi
 - Global set up and layout of the datastory - Valentin Gabeff
-- Writing of the datastory
+- Writing of the datastory - All members
 
 ### A list of internal milestones up until project milestone 4
 For the presentation we have to:
-- Create a poster to present
-- Find ways to interactively show the audience how our tools work
-- Decide and prepare what is going to be said
+- Detailed explanations about data sources and recovery
+- Doing a layout of the poster on Illustrator
+- Select what are the "catchy" informations in our project
+- Find ways to interactively show the audience how our tools work (tablet ?) 

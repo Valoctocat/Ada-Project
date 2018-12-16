@@ -7,11 +7,11 @@ Our analysis is mostly based on informations regarding food import registered at
 This datastory is about analysing what are the dynamics of french seasonal food importations and hopefully will help change ways of consumptions towards a more sustainable food trade.
 
 ## Research questions
-From which countries does French seasonal food products mainly come from ?
-What are the main categories of seasonal products being imported?
-Are we importing products during their season of production?  
-What is the distance distribution for the main imported food categories during the year?
-When is the right time to buy specific products? 
+- From which countries does French seasonal food products mainly come from ?
+- What are the main categories of seasonal products being imported?
+- Are we importing products during their season of production?  
+- What is the distance distribution for the main imported food categories during the year?
+- When is the right time to buy specific products? 
 
 ## Data
 To perform our analysis, we used multiple datasets concerning importation and production In France. As indicated before, our main dataset concerning  importation in France comes from the [french government website](https://www.data.gouv.fr/en/datasets/statistiques-nationales-du-commerce-exterieur/#_). It gathers information about all the products that passed France customs each month in 2016.  For all the entries in the French territory, the mass (in kg)  and the origin of the product was registered. In this table, product categories are specified by their ‘CPF6’ code: An additional file, also found on the French government website, allows the association of these CPF6 code with the names of the products. 
